@@ -9,6 +9,7 @@ public class CalculatorTestThorough {
 
     @Test
     public void addTest(){
+        //add Test
         Calculator myCalculator = new Calculator();
 
         for(int i = 0; i < 2000000000 ; i++){
