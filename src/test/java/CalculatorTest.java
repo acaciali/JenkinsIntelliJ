@@ -8,7 +8,7 @@ public class CalculatorTest {
 
     @Test
     public void addTest(){
-        //basic add test for calculator
+        //basic add test for calculator function
 
         Calculator myCalculator = new Calculator();
 
